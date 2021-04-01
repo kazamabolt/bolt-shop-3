@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "title": "Men Casual Shoe",
+      "price": "Rs 500",
+      "image": "./images/pic1.png",
+      "category": "featured"
+    },
+    {
+      "title": "Women's Heels",
+      "price": "Rs 1500",
+      "image": "./images/pic2.png",
+      "category": "trend"
+    },
+    {
+      "title": "Bag",
+      "price": "Rs 2000",
+      "image": "./images/pic3.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men's Shirt",
+      "price": "Rs 900",
+      "image": "./images/pic4.png",
+      "category": "trend"
+    },
+    {
+      "title": "Unisex Bag",
+      "price": "Rs 2200",
+      "image": "./images/pic5.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "Rs 1200",
+      "image": "./images/pic6.png",
+      "category": "recent"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "Rs 3000",
+      "image": "./images/pic8.png",
+      "category": "trend"
+    },
+    {
+      "title": "Bag",
+      "price": "Rs 1700",
+      "image": "./images/pic7.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "Rs 3000",
+      "image": "./images/pic8.png",
+      "category": "recent"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "Rs 500",
+      "image": "./images/pic1.png",
+      "category": "trend"
+    },
+    {
+      "title": "Women's Shoe",
+      "price": "Rs 2500",
+      "image": "./images/pic9.png",
+      "category": "special"
+    },
+    {
+      "title": "Men's Bag",
+      "price": "Rs 3000",
+      "image": "./images/pic10.png",
+      "category": "special"
+    },
+    {
+      "title": "Unisex Shoe",
+      "price": "Rs 2400",
+      "image": "./images/pic11.png",
+      "category": "special"
+    },
+    {
+      "title": "Men's Bag",
+      "price": "Rs 2700",
+      "image": "./images/pic12.png",
+      "category": "recent"
+    },
+    {
+      "title": "Bag",
+      "price": "Rs 1700",
+      "image": "./images/pic7.png",
+      "category": "special"
+    },
+    {
+      "title": "Unisex Shoe",
+      "price": "Rs 3200",
+      "image": "./images/pic13.png",
+      "category": "latest"
+    },
+    {
+      "title": "Unisex Shoe",
+      "price": "Rs 3300",
+      "image": "./images/pic14.png",
+      "category": "recent"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "Rs 3000",
+      "image": "./images/pic8.png",
+      "category": "latest"
+    },
+    {
+      "title": "Unisex Shoe",
+      "price": "Rs 1800",
+      "image": "./images/pic15.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "Rs 500",
+      "image": "./images/pic1.png",
+      "category": "latest"
+    }
+  ]
+}
